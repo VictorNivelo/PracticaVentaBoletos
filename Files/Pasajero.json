@@ -1,0 +1,1 @@
+{"Controlador.TDA.Lista.ListaDinamica":{"cabezera":{"info":{"@class":"Modelo.Pasajero","idPasajero":1,"NumeroIdentificacion":1,"Nombre":"HOLLA","Apellido":"A","datosBoleto":{"idBoleto":1,"CiudadOrigen":"Azuay","CiudadDestino":"Azuay","CantidadBoletos":11,"FechaViaje":1,"HoraViaje":"00:30","TotalPagar":1}}},"ultimo":{"@reference":"..\/cabezera"},"Longitud":1}}
